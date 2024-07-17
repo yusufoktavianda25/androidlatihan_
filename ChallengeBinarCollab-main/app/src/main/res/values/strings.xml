@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="beranda">Beranda</string>
+    <string name="promo">Promo</string>
+    <string name="pesanan">Pesanan</string>
+    <string name="chat">Chat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="explore">Explore</string>
+    <string name="isi_saldo">Isi Saldo</string>
+    <string name="bayar">Bayar</string>
+    <string name="klik_cek_riwayat"><![CDATA[Klik & cek riwayat]]></string>
+    <string name="rp_109_048">Rp.109.048</string>
+    <string name="goride">GoRide</string>
+    <string name="gocar">GoCar</string>
+    <string name="gofood">GoFood</string>
+    <string name="gomart">goMart</string>
+    <string name="gopulsa">GoPulsa</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="goclean">GoClean</string>
+    <string name="_193_xp_lagi_ada_harta_karun">193 XP lagi ada harta karun</string>
+    <string name="akses_cepat">Akses Cepat</string>
+    <string name="ada_voucher_nganggur_nih">Ada voucher nganggur nih</string>
+    <string name="restoran_terdekat">Restoran terdekat</string>
+    <string name="banner_desc">Temukan kebutuhan cantik-mu hemat pakai GoPay dengan cashback 50%. Klik!</string>
+    <string name="festival_idaman_perempuan">Festival idaman perempuan!</string>
+    <string name="this_is_chat_fragment">This is chat fragment</string>
+    <string name="this_is_order_fragment">This is order fragment</string>
+    <string name="this_is_promo_fragment">This is promo fragment</string>
+    <string name="gosend">GoSend</string>
+    <string name="harta_karung_bentar_lagi_hilang">Harta karung bentar lagi hilang</string>
+</resources>

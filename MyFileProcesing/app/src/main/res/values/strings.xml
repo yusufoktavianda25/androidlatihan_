@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFileProcesing</string>
+    <string name="file_processing">File Processing</string>
+    <string name="web_view">Buka dengan Web View</string>
+    <string name="assets">Buka dari Assets</string>
+    <string name="storage">Buka dari Storage</string>
+    <string name="internet">Buka dari Internet</string>
+    <string name="handle_video">Handle Video</string>
+    <string name="handle_image">Handle Image</string>
+    <string name="handle_pdf">Handle PDF</string>
+</resources>

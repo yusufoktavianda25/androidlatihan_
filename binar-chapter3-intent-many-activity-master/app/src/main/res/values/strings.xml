@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentWithManyActivity</string>
+    <string name="umur">%1$d, Bernilai %2$s</string>
+</resources>

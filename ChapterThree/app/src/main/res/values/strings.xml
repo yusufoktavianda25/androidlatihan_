@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ChapterThree</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="hello_yusuf">Hello Yusuf!</string>
+    <string name="have_nice_day">have nice day.</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="age">Age</string>
+    <string name="underscore">___</string>
+    <string name="parcelable">Parcelable</string>
+    <string name="serializeable">Serializeable</string>
+    <string name="passing">passing</string>
+    <string name="masukan_nama">Masukan Nama</string>
+    <string name="profile">Profile</string>
+    <string name="umur">%1$d, Bernilai %2$s</string>
+
+</resources>

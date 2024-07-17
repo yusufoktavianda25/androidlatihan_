@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/Kotlin/Challenge/app/src/main/res/drawable-v24/ic_chat.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge/app/src/main/res/drawable/text_view_circle.xml" value="0.196" />
+        <entry key="..\:/Project/Kotlin/Challenge/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Project/Kotlin/Challenge/app/src/main/res/layout/dashboard_fragment.xml" value="0.18802083333333333" />
+        <entry key="..\:/Project/Kotlin/Challenge/app/src/main/res/layout/fragment_dashboard.xml" value="0.18802083333333333" />
+        <entry key="..\:/Project/Kotlin/Challenge/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable-v24/ic_promo.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/blue_grid_rounded.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/gopay_container_rounded.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/gopay_rounded_button.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/green_grid_rounded.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/ic_gocar.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/ic_goclean.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/ic_gofood.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/ic_gomart.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/ic_gopulsa.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/ic_goride.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/ic_gosend.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/ic_more.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/orange_grid_rounded.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/red_grid_rounded.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/search_view_circle.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/drawable/treasure_cardview_background.xml" value="0.256" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/layout-v22/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/layout/fragment_chat.xml" value="0.2" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/layout/fragment_dashboard.xml" value="0.33" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/layout/fragment_order.xml" value="0.11875" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/layout/fragment_promo.xml" value="0.11875" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/layout/grid_categories.xml" value="0.30085470085470084" />
+        <entry key="..\:/Project/Kotlin/Challenge3/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Public/Documents/ChallengeBinarCollab-main/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

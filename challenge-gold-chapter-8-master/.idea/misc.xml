@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/compose-model-1654997086424.xml" value="0.3055555555555556" />
+        <entry key="../../../../../../layout/compose-model-1654997139685.xml" value="1.3682310469314078" />
+        <entry key="../../../../../../layout/compose-model-1654999096956.xml" value="1.3682310469314078" />
+        <entry key="../../../../../../layout/compose-model-1655000036179.xml" value="1.3682310469314078" />
+        <entry key="../../../../../../layout/compose-model-1655000719644.xml" value="0.3047138047138047" />
+        <entry key="../../../../../../layout/compose-model-1655002932449.xml" value="0.3055555555555556" />
+        <entry key="../../../../../../layout/compose-model-1655004590567.xml" value="0.3055555555555556" />
+        <entry key="../../../../../../layout/compose-model-1655009049527.xml" value="1.0" />
+        <entry key="../../../../../../layout/compose-model-1655009895690.xml" value="0.4" />
+        <entry key="../../../../../../layout/compose-model-1655028977794.xml" value="0.3047138047138047" />
+        <entry key="../../../../../../layout/compose-model-1655030242914.xml" value="0.2" />
+        <entry key="../../../../../../layout/compose-model-1655040898038.xml" value="0.3055555555555556" />
+        <entry key="../../../../../../layout/compose-model-1655077663662.xml" value="0.3055555555555556" />
+        <entry key="../../../../../../layout/compose-model-1655079449175.xml" value="0.3527777777777778" />
+        <entry key="../../../../../../layout/compose-model-1655101141917.xml" value="0.3731481481481482" />
+        <entry key="../../../../../../layout/compose-model-1655104722320.xml" value="0.3296296296296296" />
+        <entry key="../../../../../../layout/compose-model-1655105621762.xml" value="0.3296296296296296" />
+        <entry key="../../../../../../layout/compose-model-1655107869263.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.163" />
+        <entry key="app/src/main/res/drawable/ic_unsplash_logo_vertical.xml" value="0.163" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1895" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

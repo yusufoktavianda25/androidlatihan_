@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BlankFragmentThree">
+<LinearLayout
+    android:layout_margin="25dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/thirdfragment_textview"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:text="@string/hello_blank_fragment" />
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/name_textview"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:hint="Nama" />
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/email_textview"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:hint="Email" />
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/age_textview"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:hint="Age" />
+
+</LinearLayout>
+
+
+</FrameLayout>

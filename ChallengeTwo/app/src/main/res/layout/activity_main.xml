@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".MainActivity">
+    <RelativeLayout
+        android:background="@drawable/body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints">
+
+        <androidx.appcompat.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/search_bar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="@drawable/white_radius_5"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    android:layout_marginTop="5dp">
+
+                    <Button
+                        android:id="@+id/search"
+                        android:layout_width="48dp"
+                        android:layout_height="wrap_content"
+                        android:background="@color/material_on_background_disabled"
+                        android:drawableLeft="@drawable/ic_search"
+                        android:textColor="@color/grey" />
+
+                    <Button
+                        android:id="@+id/camera"
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="1dp"
+                        android:layout_toEndOf="@+id/search"
+                        android:background="@color/material_on_background_disabled"
+                        android:drawableLeft="@drawable/ic_camera"
+                        app:layout_constraintStart_toEndOf="@+id/editText" />
+
+                    <EditText
+                        android:id="@+id/editText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="1dp"
+                        android:autofillHints=""
+                        android:background="@color/material_on_background_disabled"
+                        android:hint="@string/celana_olahraga_pria_pendek"
+                        android:inputType="text"
+                        android:textColorHint="@color/red"
+                        app:layout_constraintStart_toEndOf="@+id/search"
+                        tools:layout_editor_absoluteY="10dp" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+                <RelativeLayout
+                    android:id="@+id/constraintLayout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <Button
+                        android:id="@+id/grocery"
+                        android:layout_width="48dp"
+                        android:layout_height="wrap_content"
+                        android:background="@color/material_on_background_disabled"
+                        android:drawableRight="@drawable/ic_grocery"/>
+                    <Button
+                        android:id="@+id/messager"
+                        android:layout_toEndOf="@+id/grocery"
+                        android:layout_width="48dp"
+                        android:layout_marginLeft="-18dp"
+                        android:layout_height="wrap_content"
+                        android:background="@color/material_on_background_disabled"
+                        android:drawableLeft="@drawable/ic_message" />
+                </RelativeLayout>
+
+            </LinearLayout>
+        </androidx.appcompat.widget.Toolbar>
+    </RelativeLayout>
+    </RelativeLayout>
